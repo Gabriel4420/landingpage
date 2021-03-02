@@ -55,7 +55,7 @@ O projeto usa apenas html e css
 $ git clone https://github.com/Gabriel4420/landingpage
 
 # Access
-$ cd landingpage
+$ cd public
 
 ```
 <p align="center">
