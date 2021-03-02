@@ -34,7 +34,6 @@
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Como utilizar o projeto</a> &#xa0; | &#xa0;
-  <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/Gabriel4420" target="_blank">Author</a>
 </p>
 
@@ -59,12 +58,6 @@ $ git clone https://github.com/Gabriel4420/landingpage
 $ cd landingpage
 
 ```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
 <p align="center">
 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
