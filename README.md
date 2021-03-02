@@ -72,9 +72,9 @@ $ cd landingpage
   
   
 </p>
-
+<p align="center">
 Made with :heart: by <a href="https://github.com/Gabriel4420" target="_blank">Gabriel Rodribues</a>
-
+</p>
 &#xa0;
 
 <a href="#top">Back to top</a>
