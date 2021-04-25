@@ -179,10 +179,10 @@ footer{
     height: 30vh;
   }
 
-  .banner h2, #title{
+  .banner h2, #txt_1{
   font-size: 13px;
   }
-  #title {
+  #txt_1 {
     display: flex;
     justify-content: center;
     align-items: flex-start;
